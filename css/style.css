@@ -150,3 +150,70 @@ font-family: 'Style Script', cursive; */
             margin-top:100px ;
 }
 
+.registration{
+    margin-top: 200px;
+}
+
+#admin{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.admin-btn{
+    padding: 5px 90px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+
+.admin-btn-content{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 5px;
+}
+.admin-btn2{
+    padding: 5px 128px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+.admin-btn3{
+    padding: 5px 98px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+.admin-btn4{
+    padding: 5px 40px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+.admin-btn5{
+    padding: 5px 126px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+.admin-btn6{
+    padding: 5px 137px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+.admin-btn7{
+    padding: 5px 111px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+.admin-btn8{
+    padding: 5px 119px;
+    border-radius: 5px;
+    background: #914b4a;
+}
+
+.admin-btn-content2{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 5px;
+}
+
+
+
