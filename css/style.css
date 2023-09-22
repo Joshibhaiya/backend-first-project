@@ -215,5 +215,17 @@ font-family: 'Style Script', cursive; */
     letter-spacing: 5px;
 }
 
+.t-c{
+    padding: 15px;
+}
+
+
+.tb-btn{
+    border: none;
+    padding: 10px;
+    background-color: #914b4a;
+    border-radius: 5px;
+}
+
 
 
